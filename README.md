@@ -1,16 +1,13 @@
-### Hi there 👋
+<div align="center">
+  <p> 
+    ```
+      _          _ _                            _     _ 
+     | |        | | |                          | |   | |
+     | |__   ___| | | ___   __      _____  _ __| | __| |
+     | '_ \ / _ \ | |/ _ \  \ \ /\ / / _ \| '__| |/ _` |
+     | | | |  __/ | | (_) |  \ V  V / (_) | |  | | (_| |
+     |_| |_|\___|_|_|\___/    \_/\_/ \___/|_|  |_|\__,_|
 
-<!--
-**ygnCybernoob/ygnCybernoob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    ```
+  </p>
+</div>
