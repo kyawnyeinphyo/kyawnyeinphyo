@@ -4,12 +4,4 @@ I am a simple human being from Earth known as Kyaw Nyein Phyo alias ygnCybernoob
 
 I'm currently working as a freelancer, mainly focus in Mobile, Desktop and Backend Developemnets
 
-<details>
-<summary>⚡️ More about my coding life</summary>
-<br />
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ygnCybernoob&layout=compact&hide=css,html&theme=onedark)
-
-![ygnCybernoob's github stats](https://github-readme-stats.vercel.app/api?username=ygnCybernoob&count_private=true&show_icons=true&theme=onedark)
-
 </details>
