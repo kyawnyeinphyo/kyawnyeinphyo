@@ -2,6 +2,6 @@
 
 I am a simple human being from Earth, known as Kyaw Nyein Phyo alias ygnCybernoob :) 
 
-I'm currently working as a freelancer, mainly focus in Mobile, Desktop and Backend Developemnets
+I'm currently working as a freelancer, mainly focus in Mobile, Desktop and Backend Developments
 
 </details>
