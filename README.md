@@ -4,4 +4,11 @@ I am a simple human being from Earth, known as Kyaw Nyein Phyo alias ygnCybernoo
 
 I'm currently working as a freelancer, mainly focus in Mobile, Desktop and Backend Developments
 
-</details>
+#### Experienced in developing with 
+
+[![Flutter Badge](https://img.shields.io/badge/-Flutter-3fa0ee?style=for-the-badge&labelColor=white&logo=flutter&logoColor=3fa0ee )](#) 
+[![C#.net Badge](https://img.shields.io/badge/-.NET-512bd4?style=for-the-badge&labelColor=white&logo=dotnet&logoColor=512bd4)](#) 
+[![Laravel Badge](https://img.shields.io/badge/-Laravel-fb503b?style=for-the-badge&labelColor=white&logo=laravel&logoColor=fb503b )](#) 
+[![Python Badge](https://img.shields.io/badge/-Python-3776ab?style=for-the-badge&labelColor=white&logo=python&logoColor=3776ab
+)](#) 
+
