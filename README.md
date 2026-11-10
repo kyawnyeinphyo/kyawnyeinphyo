@@ -12,3 +12,4 @@ I am currently working as a freelance mobile application developer.
 [![Python Badge](https://img.shields.io/badge/-Python-3776ab?style=for-the-badge&labelColor=white&logo=python&logoColor=3776ab
 )](#) 
 
+![GitHub Stats Card](https://ghstats.dev/api/card?username=kyawnyeinphyo&border_radius=5.5)
